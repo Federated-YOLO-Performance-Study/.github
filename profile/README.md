@@ -31,9 +31,9 @@ These devices cover both Intel-based and ARM-based architectures, allowing perfo
 
 | Device | Architecture | Platform |
 |--------|--------------|----------|
-| Titan 300 TGL-UP3 | Intel | CPU / GPU / NPU |
-| ASUS NUC 14 Pro+ | Intel | CPU / GPU |
-| NVIDIA Jetson AGX Orin 64GB | ARM | GPU / NPU |
+| Titan 300 TGL-UP3 | Intel | CPU / GPU  |
+| ASUS NUC 14 Pro+ | Intel | CPU / GPU / NPU|
+| NVIDIA Jetson AGX Orin 64GB | ARM | GPU / CPU |
 
 ---
 
